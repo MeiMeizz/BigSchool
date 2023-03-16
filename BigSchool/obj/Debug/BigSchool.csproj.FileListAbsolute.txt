@@ -110,3 +110,4 @@ C:\Users\Nguyen Thanh Tuan\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.
 C:\Users\Nguyen Thanh Tuan\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.GenerateResource.cache
 C:\Users\Nguyen Thanh Tuan\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCours.resources
 C:\Users\Nguyen Thanh Tuan\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
+C:\Users\Nguyen Thanh Tuan\source\repos\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources
